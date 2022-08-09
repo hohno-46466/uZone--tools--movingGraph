@@ -9,8 +9,8 @@
      0 directories, 4 files (Mon Aug  8 21:42:54 JST 2022)
 
 
-Note: url = https://github.com/hohno-46466/uZone--tools--movingGraph
+Note: URL = https://github.com/hohno-46466/uZone--tools--movingGraph
 
-Note: url = git@github.com:hohno-46466/uZone--tools--movingGraph.git
+Note: URL = git@github.com:hohno-46466/uZone--tools--movingGraph.git
 
 -EOF-

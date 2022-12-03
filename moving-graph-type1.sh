@@ -5,8 +5,8 @@
 # ----------------------------------------------------------
 
 # First version: Sun Mar 29 10:53:40 JST 2020
-# Prev updated: Sun Mar 29 17:12:12 JST 2020
-# Last updated: Sun Mar 29 23:58:34 JST 2020
+# Prev update: Sun Mar 29 17:12:12 JST 2020
+# Last update: Sun Mar 29 23:58:34 JST 2020
 
 # ----------------------------------------------------------
 

@@ -2,7 +2,7 @@
 # Examples.txt
 #
 
-# Last updated:  Mon Mar 30 00:18:18 JST 2020
+# Last update:  Mon Mar 30 00:18:18 JST 2020
 
 情報発信側の例：
 $ fxx() { echo "scale=6;((s(3.14159 * $1 / 180) * 50) + 50.5)" | bc -l; }; x=0; while [ 1 ]; do echo $(fxx $x) $(fxx $(($x + 30)))  $(fxx $(($x + 60)))  $(fxx $(($x + 90))) $(fxx $(($x + 120))) $(fxx $(($x + 150)));  x=$(($x + 10)); [ $x -ge 360 ] && x=0; sleep 0.1; done | mosquitto_pub -l -t hohno/graph-test3
